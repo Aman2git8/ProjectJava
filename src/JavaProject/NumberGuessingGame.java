@@ -37,7 +37,7 @@ class Umpire {
         Player p1 = new Player();
         Playernum1 = p1.PlayerNum();
         System.out.println("Player2 guess your Number");
-//        Player p2 = new Player();
+        Player p2 = new Player();
         Playernum2 = p1.PlayerNum();
         System.out.println("Player3 guess your Number");
         Player p3 = new Player();
